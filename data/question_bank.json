@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is supervised learning?",
+        "skill": "Machine Learning",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the difference between classification and regression?",
+        "skill": "Machine Learning",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is overfitting in machine learning?",
+        "skill": "Machine Learning",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the difference between bagging and boosting?",
+        "skill": "Machine Learning",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Explain the bias-variance tradeoff.",
+        "skill": "Machine Learning",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is cross-validation and why is it useful?",
+        "skill": "Machine Learning",
+        "difficulty": "medium"
+    },
+    {
+        "question": "How would you handle class imbalance in a classification problem?",
+        "skill": "Machine Learning",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Explain the difference between L1 and L2 regularization.",
+        "skill": "Machine Learning",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the difference between a list and a tuple in Python?",
+        "skill": "Python",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What are the main data types in Python?",
+        "skill": "Python",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the difference between append() and extend() in lists?",
+        "skill": "Python",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Explain decorators in Python.",
+        "skill": "Python",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the difference between a shallow copy and a deep copy?",
+        "skill": "Python",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What are *args and **kwargs used for?",
+        "skill": "Python",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Explain the GIL and its effect on Python concurrency.",
+        "skill": "Python",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the difference between generators and list comprehensions?",
+        "skill": "Python",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is a SQL JOIN?",
+        "skill": "SQL",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the difference between WHERE and HAVING?",
+        "skill": "SQL",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What does the GROUP BY clause do?",
+        "skill": "SQL",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Explain the difference between INNER JOIN and LEFT JOIN.",
+        "skill": "SQL",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the difference between UNION and UNION ALL?",
+        "skill": "SQL",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What are indexes in SQL and why are they used?",
+        "skill": "SQL",
+        "difficulty": "medium"
+    },
+    {
+        "question": "How would you optimize a slow SQL query?",
+        "skill": "SQL",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Explain the difference between DELETE, TRUNCATE and DROP.",
+        "skill": "SQL",
+        "difficulty": "hard"
+    }
+]

@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+uploads/*
+reports/*
+
+*.pkl
+*.pt
+*.pth
+
+.ipynb_checkpoints/
+
+.streamlit/secrets.toml
