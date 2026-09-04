@@ -22,7 +22,7 @@ pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 ```
 
-Open http://localhost:8501
+Open [http://localhost:8501](https://sarthak070606-adaptive-ai-interview-coach-streamlit-app-sumkdj.streamlit.app/)
 
 API key is already placed in `.env`.
 
